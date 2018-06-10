@@ -1,1 +1,2 @@
-This new branch
+This new branch.
+Adding new text
